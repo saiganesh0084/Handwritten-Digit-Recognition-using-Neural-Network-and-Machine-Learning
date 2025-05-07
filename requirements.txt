@@ -1,0 +1,6 @@
+Python
+NumPy
+Matplotlip
+Pandas
+Scikit-learn
+Tensorflow
